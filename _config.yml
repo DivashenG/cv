@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-baseurl: /
-url: https://divasheng.github.io/cv/
+baseurl: /cv
+url: https://divasheng.github.io/
 
 title: Divashen Govender
 email: divashen.govender@gmail.com
